@@ -46,8 +46,8 @@ The design files, including wireframes and prototypes, are located in the `desig
 ### Running Tests
 To run the tests, use the following command:
 
-```bash
-npm test
 
+# still in process..
 
-still in process..
+ 
+
