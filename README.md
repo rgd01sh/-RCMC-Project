@@ -24,7 +24,7 @@ The design files, including wireframes and prototypes, are located in the `desig
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/YourUsername/RCMC-Project.git
+    git clone https://github.com/rgd01sh/RCMC-Project.git
     cd RCMC-Project
     ```
 
